@@ -6,8 +6,23 @@ abc: true
 
 ## Class Discussion
 
-TBD
+Fix "Ledgeer" lines in textbook.Is in "examples below" last bullet point.
 
+**Why do we need Alto Clef?**
+
+It helps up to not need as many ledger lines. It moves the notes we are looking at up so we are not reading a ton of lines below the treble clef staff.
+
+For you to read Alto and Tenor clef in a useful way, you can't just think of them as note names. Think of the relation in intervals between each clef for better transposing and reading.
+
+**Why do we need both Alto and Tenor Clef?**
+
+There is no reason for Tenor clef. Sadly composers couldn't agree and wrote it for certain instruments that we will have to read parts for.
+
+**Strategies for reading clefs**
+- Having anchor notes is helpful. If you use anchor notes, get good at knowing the notes backwards and forwards for ease around the anchor notes you have memorized.
+- Practice naming notes in 2nds, 3rds, 4ths, and 5ths.
+- If you use your primary clef as home base, you just need to remember what direction and how far.
+- Go through and figure out how each clef is realted to your clef.
 
 ## Further Reading
 ======
